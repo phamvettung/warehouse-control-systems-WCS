@@ -1,0 +1,6 @@
+[07:54:37] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[07:54:38] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[07:54:38] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[07:54:39] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[07:56:52] [Information] Beginning... 
+[07:56:52] [Information] End......... 

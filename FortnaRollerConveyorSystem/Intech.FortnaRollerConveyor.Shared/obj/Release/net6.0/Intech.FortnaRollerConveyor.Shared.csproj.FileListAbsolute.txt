@@ -1,0 +1,12 @@
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\bin\Release\net6.0\Intech.FortnaRollerConveyor.Shared.deps.json
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\bin\Release\net6.0\Intech.FortnaRollerConveyor.Shared.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\bin\Release\net6.0\Intech.FortnaRollerConveyor.Shared.pdb
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.AssemblyInfoInputs.cache
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.AssemblyInfo.cs
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.csproj.CoreCompileInputs.cache
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.sourcelink.json
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\refint\Intech.FortnaRollerConveyor.Shared.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\Intech.FortnaRollerConveyor.Shared.pdb
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Shared\obj\Release\net6.0\ref\Intech.FortnaRollerConveyor.Shared.dll

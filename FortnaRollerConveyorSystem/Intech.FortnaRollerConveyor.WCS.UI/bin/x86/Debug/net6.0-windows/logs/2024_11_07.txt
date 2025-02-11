@@ -1,0 +1,356 @@
+[15:06:07] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[15:06:08] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[15:06:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[15:06:09] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[15:07:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1002,"data":null}
+[15:07:09] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1002,"codeReturn":0,"message":"Success","data":null}
+[15:08:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1003,"data":null}
+[15:08:08] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1003,"codeReturn":0,"message":"Success","data":null}
+[15:12:53] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[15:12:54] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[15:12:54] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[15:12:55] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[15:17:15] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[15:17:16] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[15:17:16] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[15:17:17] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[15:20:26] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[15:20:27] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[15:20:27] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[15:20:28] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[15:21:27] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1002,"data":null}
+[15:21:27] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1002,"codeReturn":0,"message":"Success","data":null}
+[15:22:26] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1003,"data":null}
+[15:22:26] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1003,"codeReturn":0,"message":"Success","data":null}
+[15:22:29] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-02","command":"COMPLETEADVANCE"}}
+[15:22:29] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-02","status":"COMPLETEADVANCE"}}
+[15:22:31] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":2,"data":{"deviceId":"GTP-01","command":"COMPLETEADVANCE"}}
+[15:22:31] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":2,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"COMPLETEADVANCE"}}
+[15:23:13] [Information] Beginning... 
+[15:23:13] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007010BK"}}
+[15:23:13] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-02","barcode":"115007010BK"}}
+[15:23:13] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_01 | Content: Success
+[15:23:16] [Information] End......... 
+[15:23:19] [Information] Beginning... 
+[15:23:19] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007006FR"}}
+[15:23:19] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007006FR"}}
+[15:23:19] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[15:23:22] [Information] End......... 
+[15:23:25] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[15:23:25] [Information] Receiving... {"messageType":"Pong","sequenceNumber":5,"codeReturn":0,"message":"Success","data":null}
+[15:23:25] [Information] Beginning... 
+[15:23:25] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007006FR"}}
+[15:23:26] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:23:28] [Information] End......... 
+[15:23:29] [Information] Beginning... 
+[15:23:29] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-02","barcode":"115007010BK"}}
+[15:23:29] [Information] Beginning... 
+[15:23:29] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007012FR"}}
+[15:23:29] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007010BK"}}
+[15:23:29] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-02","barcode":"115007012FR"}}
+[15:23:29] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_05 | Content: Success
+[15:23:29] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_01 | Content: Success
+[15:23:32] [Information] End......... 
+[15:23:32] [Information] End......... 
+[15:23:34] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_03A | Content: Success
+[15:23:35] [Information] Beginning... 
+[15:23:35] [Information] Beginning... 
+[15:23:35] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":10,"data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007010BK"}}
+[15:23:35] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":9,"data":{"deviceId":"GTP-01","barcode":"115007006FR"}}
+[15:23:35] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:23:35] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[15:23:38] [Information] End......... 
+[15:23:38] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":10,"data":{"deviceId":"GTP-01","barcode":"115007006FR"}}
+[15:23:38] [Information] Beginning... 
+[15:23:38] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":11,"data":{"scannerName":"SCANNER-01","barcode":"115007011BK"}}
+[15:23:38] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[15:23:38] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":11,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:23:38] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_01 | Content: Success
+[15:23:41] [Information] End......... 
+[15:23:41] [Information] End......... 
+[15:23:43] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_07A | Content: Success
+[15:23:43] [Information] Beginning... 
+[15:23:43] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":12,"data":{"deviceId":"GTP-02","barcode":"115007010BK"}}
+[15:23:44] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":12,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-02"}}
+[15:23:46] [Information] End......... 
+[15:23:47] [Information] Beginning... 
+[15:23:47] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":13,"data":{"scannerName":"SCANNER-02","barcode":"115007012FR"}}
+[15:23:47] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":3,"data":{"deviceId":"GTP-01","command":"COMPLETE"}}
+[15:23:48] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":3,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"COMPLETE"}}
+[15:23:48] [Information] Writing..... PC -> PLC | Arguments: value COMPLETE, clusterNumber CLUSTER_03B | Content: Success
+[15:23:48] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":4,"data":{"deviceId":"GTP-02","command":"COMPLETE"}}
+[15:23:48] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":4,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-02","status":"COMPLETE"}}
+[15:23:48] [Information] Writing..... PC -> PLC | Arguments: value COMPLETE, clusterNumber CLUSTER_07B | Content: Success
+[15:23:48] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":13,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007012FR"}}
+[15:23:48] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_05 | Content: Success
+[15:23:50] [Information] End......... 
+[15:23:53] [Information] Beginning... 
+[15:23:53] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":14,"data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007012FR"}}
+[15:23:54] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":14,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:23:56] [Information] End......... 
+[15:23:59] [Information] Beginning... 
+[15:23:59] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":15,"data":{"scannerName":"SCANNER-02","barcode":"115007006FR"}}
+[15:23:59] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":15,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-02","deviceId":"GTP-01","barcode":"115007006FR"}}
+[15:23:59] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_05 | Content: Success
+[15:24:02] [Information] End......... 
+[15:24:05] [Information] Beginning... 
+[15:24:05] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":16,"data":{"scannerName":"SCANNER-01","barcode":"115007005FR"}}
+[15:24:06] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":16,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007005FR"}}
+[15:24:06] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[15:24:08] [Information] End......... 
+[15:24:12] [Information] Beginning... 
+[15:24:12] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":17,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007005FR"}}
+[15:24:12] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":17,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:24:15] [Information] End......... 
+[15:24:15] [Information] Beginning... 
+[15:24:15] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":18,"data":{"scannerName":"SCANNER-02","barcode":"115007011BK"}}
+[15:24:15] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":18,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:24:15] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_05 | Content: Success
+[15:24:18] [Information] End......... 
+[15:24:20] [Information] Beginning... 
+[15:24:20] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":19,"data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:24:21] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":19,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:24:23] [Information] End......... 
+[15:24:24] [Information] Sending..... {"messageType":"Ping","sequenceNumber":20,"data":null}
+[15:24:24] [Information] Receiving... {"messageType":"Pong","sequenceNumber":20,"codeReturn":0,"message":"Success","data":null}
+[15:24:27] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":5,"data":{"deviceId":"GTP-02","command":"ADVANCE"}}
+[15:24:27] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":5,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-02","status":"ADVANCE"}}
+[15:24:27] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_07A | Content: Success
+[15:24:27] [Information] Beginning... 
+[15:24:27] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":6,"data":{"deviceId":"GTP-02","barcode":"115007012FR"}}
+[15:24:27] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-02"}}
+[15:24:27] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":6,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[15:24:28] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":6,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[15:24:28] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_03A | Content: Success
+[15:24:28] [Information] Beginning... 
+[15:24:28] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":7,"data":{"deviceId":"GTP-01","barcode":"115007005FR"}}
+[15:24:28] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[15:24:29] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":7,"data":{"deviceId":"GTP-02","command":"COMPLETE"}}
+[15:24:29] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":7,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-02","status":"COMPLETE"}}
+[15:24:30] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":8,"data":{"deviceId":"GTP-01","command":"COMPLETE"}}
+[15:24:30] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":8,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"COMPLETE"}}
+[15:24:30] [Information] Writing..... PC -> PLC | Arguments: value COMPLETE, clusterNumber CLUSTER_07B | Content: Success
+[15:24:30] [Information] End......... 
+[15:24:31] [Information] Writing..... PC -> PLC | Arguments: value COMPLETE, clusterNumber CLUSTER_03B | Content: Success
+[15:24:31] [Information] End......... 
+[15:24:41] [Information] Beginning... 
+[15:24:41] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007004BK"}}
+[15:24:41] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007004BK"}}
+[15:24:41] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[15:24:42] [Information] Beginning... 
+[15:24:42] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":10,"data":{"scannerName":"SCANNER-02","barcode":"115007005FR"}}
+[15:24:42] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-02","deviceId":"GTP-01","barcode":"115007005FR"}}
+[15:24:42] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_05 | Content: Success
+[15:24:44] [Information] End......... 
+[15:24:45] [Information] End......... 
+[15:24:50] [Information] Beginning... 
+[15:24:50] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":11,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007004BK"}}
+[15:24:50] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":11,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:24:53] [Information] End......... 
+[15:24:53] [Information] Beginning... 
+[15:24:53] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":12,"data":{"scannerName":"SCANNER-01","barcode":"115007007BK"}}
+[15:24:53] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":12,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007007BK"}}
+[15:24:53] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[15:24:56] [Information] End......... 
+[15:24:58] [Information] Beginning... 
+[15:24:58] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":13,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007007BK"}}
+[15:24:58] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":13,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:24:58] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":9,"data":{"deviceId":"GTP-02","command":"ADVANCE"}}
+[15:24:59] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":9,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-02","status":"ADVANCE"}}
+[15:24:59] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_07A | Content: Success
+[15:24:59] [Information] Beginning... 
+[15:24:59] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":10,"data":{"deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:24:59] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":10,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[15:24:59] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":10,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[15:24:59] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_03A | Content: Success
+[15:24:59] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-02"}}
+[15:25:00] [Information] Beginning... 
+[15:25:00] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":11,"data":{"deviceId":"GTP-01","barcode":"115007004BK"}}
+[15:25:00] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":11,"data":{"deviceId":"GTP-01","command":"COMPLETE"}}
+[15:25:00] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":11,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"COMPLETE"}}
+[15:25:00] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":12,"data":{"deviceId":"GTP-02","command":"COMPLETE"}}
+[15:25:00] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":12,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-02","status":"COMPLETE"}}
+[15:25:00] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":11,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[15:25:01] [Information] End......... 
+[15:25:02] [Information] End......... 
+[15:25:02] [Information] Writing..... PC -> PLC | Arguments: value COMPLETE, clusterNumber CLUSTER_07B | Content: Success
+[15:25:02] [Information] Writing..... PC -> PLC | Arguments: value COMPLETE, clusterNumber CLUSTER_03B | Content: Success
+[15:25:03] [Information] End......... 
+[15:25:04] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":13,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[15:25:04] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":13,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[15:25:23] [Information] Sending..... {"messageType":"Ping","sequenceNumber":14,"data":null}
+[15:25:24] [Information] Receiving... {"messageType":"Pong","sequenceNumber":14,"codeReturn":0,"message":"Success","data":null}
+[15:26:23] [Information] Sending..... {"messageType":"Ping","sequenceNumber":15,"data":null}
+[15:26:24] [Information] Receiving... {"messageType":"Pong","sequenceNumber":15,"codeReturn":0,"message":"Success","data":null}
+[15:27:23] [Information] Sending..... {"messageType":"Ping","sequenceNumber":16,"data":null}
+[15:27:24] [Information] Receiving... {"messageType":"Pong","sequenceNumber":16,"codeReturn":0,"message":"Success","data":null}
+[15:28:23] [Information] Sending..... {"messageType":"Ping","sequenceNumber":17,"data":null}
+[15:28:23] [Information] Receiving... {"messageType":"Pong","sequenceNumber":17,"codeReturn":0,"message":"Success","data":null}
+[15:29:22] [Information] Sending..... {"messageType":"Ping","sequenceNumber":18,"data":null}
+[15:29:23] [Information] Receiving... {"messageType":"Pong","sequenceNumber":18,"codeReturn":0,"message":"Success","data":null}
+[15:30:22] [Information] Sending..... {"messageType":"Ping","sequenceNumber":19,"data":null}
+[15:30:23] [Information] Receiving... {"messageType":"Pong","sequenceNumber":19,"codeReturn":0,"message":"Success","data":null}
+[15:31:22] [Information] Sending..... {"messageType":"Ping","sequenceNumber":20,"data":null}
+[15:31:22] [Information] Receiving... {"messageType":"Pong","sequenceNumber":20,"codeReturn":0,"message":"Success","data":null}
+[15:32:21] [Information] Sending..... {"messageType":"Ping","sequenceNumber":21,"data":null}
+[15:32:21] [Information] Receiving... {"messageType":"Pong","sequenceNumber":21,"codeReturn":0,"message":"Success","data":null}
+[15:33:20] [Information] Sending..... {"messageType":"Ping","sequenceNumber":22,"data":null}
+[15:33:20] [Information] Receiving... {"messageType":"Pong","sequenceNumber":22,"codeReturn":0,"message":"Success","data":null}
+[15:34:19] [Information] Sending..... {"messageType":"Ping","sequenceNumber":23,"data":null}
+[15:34:20] [Information] Receiving... {"messageType":"Pong","sequenceNumber":23,"codeReturn":0,"message":"Success","data":null}
+[15:35:19] [Information] Sending..... {"messageType":"Ping","sequenceNumber":24,"data":null}
+[15:35:19] [Information] Receiving... {"messageType":"Pong","sequenceNumber":24,"codeReturn":0,"message":"Success","data":null}
+[15:36:18] [Information] Sending..... {"messageType":"Ping","sequenceNumber":25,"data":null}
+[15:36:18] [Information] Receiving... {"messageType":"Pong","sequenceNumber":25,"codeReturn":0,"message":"Success","data":null}
+[15:37:17] [Information] Sending..... {"messageType":"Ping","sequenceNumber":26,"data":null}
+[15:37:17] [Information] Receiving... {"messageType":"Pong","sequenceNumber":26,"codeReturn":0,"message":"Success","data":null}
+[15:38:16] [Information] Sending..... {"messageType":"Ping","sequenceNumber":27,"data":null}
+[15:38:17] [Information] Receiving... {"messageType":"Pong","sequenceNumber":27,"codeReturn":0,"message":"Success","data":null}
+[15:39:16] [Information] Sending..... {"messageType":"Ping","sequenceNumber":28,"data":null}
+[15:39:16] [Information] Receiving... {"messageType":"Pong","sequenceNumber":28,"codeReturn":0,"message":"Success","data":null}
+[15:40:15] [Information] Sending..... {"messageType":"Ping","sequenceNumber":29,"data":null}
+[15:40:15] [Information] Receiving... {"messageType":"Pong","sequenceNumber":29,"codeReturn":0,"message":"Success","data":null}
+[15:41:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":30,"data":null}
+[15:41:14] [Information] Receiving... {"messageType":"Pong","sequenceNumber":30,"codeReturn":0,"message":"Success","data":null}
+[15:42:13] [Information] Sending..... {"messageType":"Ping","sequenceNumber":31,"data":null}
+[15:42:13] [Information] Receiving... {"messageType":"Pong","sequenceNumber":31,"codeReturn":0,"message":"Success","data":null}
+[15:43:12] [Information] Sending..... {"messageType":"Ping","sequenceNumber":32,"data":null}
+[15:43:12] [Information] Receiving... {"messageType":"Pong","sequenceNumber":32,"codeReturn":0,"message":"Success","data":null}
+[15:44:11] [Information] Sending..... {"messageType":"Ping","sequenceNumber":33,"data":null}
+[15:44:11] [Information] Receiving... {"messageType":"Pong","sequenceNumber":33,"codeReturn":0,"message":"Success","data":null}
+[15:45:10] [Information] Sending..... {"messageType":"Ping","sequenceNumber":34,"data":null}
+[15:45:11] [Information] Receiving... {"messageType":"Pong","sequenceNumber":34,"codeReturn":0,"message":"Success","data":null}
+[15:46:10] [Information] Sending..... {"messageType":"Ping","sequenceNumber":35,"data":null}
+[15:46:10] [Information] Receiving... {"messageType":"Pong","sequenceNumber":35,"codeReturn":0,"message":"Success","data":null}
+[15:52:57] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[15:52:58] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[15:52:58] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[15:52:59] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[15:53:23] [Information] Beginning... 
+[15:53:23] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":1002,"data":{"scannerName":"SCANNER-01","barcode":"115007004FR"}}
+[15:53:23] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":1002,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007004FR"}}
+[15:53:23] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[15:53:26] [Information] End......... 
+[15:53:28] [Information] Beginning... 
+[15:53:28] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":1003,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007004FR"}}
+[15:53:28] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":1003,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:53:31] [Information] End......... 
+[15:53:31] [Information] Beginning... 
+[15:53:31] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":1004,"data":{"scannerName":"SCANNER-01","barcode":"115007007FR"}}
+[15:53:31] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":1004,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007007FR"}}
+[15:53:31] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[15:53:34] [Information] End......... 
+[15:53:36] [Information] Beginning... 
+[15:53:36] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":1005,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007007FR"}}
+[15:53:36] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":1005,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:53:39] [Information] End......... 
+[15:53:39] [Information] Beginning... 
+[15:53:39] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":1006,"data":{"scannerName":"SCANNER-01","barcode":"115007011BK"}}
+[15:53:40] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":1006,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:53:40] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_01 | Content: Success
+[15:53:42] [Information] End......... 
+[15:53:55] [Information] Beginning... 
+[15:53:55] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":1007,"data":{"scannerName":"SCANNER-02","barcode":"115007011BK"}}
+[15:53:56] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":1007,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:53:56] [Information] Writing..... PC -> PLC | Arguments: value GTP-02, clusterNumber CLUSTER_05 | Content: Success
+[15:53:58] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1008,"data":null}
+[15:53:58] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1008,"codeReturn":0,"message":"Success","data":null}
+[15:53:58] [Information] End......... 
+[15:54:01] [Information] Beginning... 
+[15:54:01] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":1009,"data":{"scannerName":"SCANNER-02","deviceId":"GTP-02","barcode":"115007011BK"}}
+[15:54:02] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":1009,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[15:54:04] [Information] End......... 
+[15:54:57] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1010,"data":null}
+[15:54:57] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1010,"codeReturn":0,"message":"Success","data":null}
+[15:55:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1011,"data":null}
+[15:55:57] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1011,"codeReturn":0,"message":"Success","data":null}
+[15:56:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1012,"data":null}
+[15:56:57] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1012,"codeReturn":0,"message":"Success","data":null}
+[15:57:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1013,"data":null}
+[15:57:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1013,"codeReturn":0,"message":"Success","data":null}
+[15:58:55] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1014,"data":null}
+[15:58:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1014,"codeReturn":0,"message":"Success","data":null}
+[15:59:55] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1015,"data":null}
+[15:59:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1015,"codeReturn":0,"message":"Success","data":null}
+[16:00:55] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1016,"data":null}
+[16:00:55] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1016,"codeReturn":0,"message":"Success","data":null}
+[16:01:54] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1017,"data":null}
+[16:01:54] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1017,"codeReturn":0,"message":"Success","data":null}
+[16:02:53] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1018,"data":null}
+[16:02:53] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1018,"codeReturn":0,"message":"Success","data":null}
+[16:03:52] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1019,"data":null}
+[16:03:52] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1019,"codeReturn":0,"message":"Success","data":null}
+[16:04:51] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1020,"data":null}
+[16:04:51] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1020,"codeReturn":0,"message":"Success","data":null}
+[16:05:50] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1021,"data":null}
+[16:05:50] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1021,"codeReturn":0,"message":"Success","data":null}
+[16:06:49] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1022,"data":null}
+[16:06:49] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1022,"codeReturn":0,"message":"Success","data":null}
+[16:07:48] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1023,"data":null}
+[16:07:48] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1023,"codeReturn":0,"message":"Success","data":null}
+[16:08:47] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1024,"data":null}
+[16:08:47] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1024,"codeReturn":0,"message":"Success","data":null}
+[16:09:46] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1025,"data":null}
+[16:09:46] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1025,"codeReturn":0,"message":"Success","data":null}
+[16:10:45] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1026,"data":null}
+[16:10:46] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1026,"codeReturn":0,"message":"Success","data":null}
+[16:11:45] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1027,"data":null}
+[16:11:45] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1027,"codeReturn":0,"message":"Success","data":null}
+[16:12:44] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1028,"data":null}
+[16:12:44] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1028,"codeReturn":0,"message":"Success","data":null}
+[16:13:43] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1029,"data":null}
+[16:13:43] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1029,"codeReturn":0,"message":"Success","data":null}
+[16:14:42] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1030,"data":null}
+[16:14:42] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1030,"codeReturn":0,"message":"Success","data":null}
+[16:15:41] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1031,"data":null}
+[16:15:41] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1031,"codeReturn":0,"message":"Success","data":null}
+[16:16:40] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1032,"data":null}
+[16:16:41] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1032,"codeReturn":0,"message":"Success","data":null}
+[16:17:40] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1033,"data":null}
+[16:17:40] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1033,"codeReturn":0,"message":"Success","data":null}
+[16:18:39] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1034,"data":null}
+[16:18:39] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1034,"codeReturn":0,"message":"Success","data":null}
+[16:19:38] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1035,"data":null}
+[16:19:38] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1035,"codeReturn":0,"message":"Success","data":null}
+[16:20:37] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1036,"data":null}
+[16:20:37] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1036,"codeReturn":0,"message":"Success","data":null}
+[16:21:36] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1037,"data":null}
+[16:21:37] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1037,"codeReturn":0,"message":"Success","data":null}
+[16:22:36] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1038,"data":null}
+[16:22:36] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1038,"codeReturn":0,"message":"Success","data":null}
+[16:23:35] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1039,"data":null}
+[16:23:36] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1039,"codeReturn":0,"message":"Success","data":null}
+[16:24:35] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1040,"data":null}
+[16:24:35] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1040,"codeReturn":0,"message":"Success","data":null}
+[16:25:34] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1041,"data":null}
+[16:25:34] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1041,"codeReturn":0,"message":"Success","data":null}
+[16:26:33] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1042,"data":null}
+[16:26:33] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1042,"codeReturn":0,"message":"Success","data":null}
+[16:27:32] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1043,"data":null}
+[16:27:32] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1043,"codeReturn":0,"message":"Success","data":null}
+[16:28:31] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1044,"data":null}
+[16:28:31] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1044,"codeReturn":0,"message":"Success","data":null}
+[16:29:30] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1045,"data":null}
+[16:29:30] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1045,"codeReturn":0,"message":"Success","data":null}
+[16:30:29] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1046,"data":null}
+[16:30:29] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1046,"codeReturn":0,"message":"Success","data":null}
+[16:31:28] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1047,"data":null}
+[16:31:28] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1047,"codeReturn":0,"message":"Success","data":null}
+[16:32:27] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1048,"data":null}
+[16:32:28] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1048,"codeReturn":0,"message":"Success","data":null}
+[16:33:27] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1049,"data":null}
+[16:33:27] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1049,"codeReturn":0,"message":"Success","data":null}
+[16:34:26] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1050,"data":null}
+[16:34:26] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1050,"codeReturn":0,"message":"Success","data":null}
+[16:35:25] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1051,"data":null}
+[16:35:25] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1051,"codeReturn":0,"message":"Success","data":null}
+[16:36:24] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1052,"data":null}
+[16:36:25] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1052,"codeReturn":0,"message":"Success","data":null}
+[16:37:24] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1053,"data":null}
+[16:37:24] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1053,"codeReturn":0,"message":"Success","data":null}
+[16:38:23] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1054,"data":null}
+[16:38:23] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1054,"codeReturn":0,"message":"Success","data":null}
+[16:39:22] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1055,"data":null}
+[16:39:22] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1055,"codeReturn":0,"message":"Success","data":null}
+[16:40:21] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1056,"data":null}
+[16:40:21] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1056,"codeReturn":0,"message":"Success","data":null}

@@ -1,0 +1,556 @@
+[10:22:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[10:22:08] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[10:32:31] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[10:32:31] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:28:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:28:17] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:29:16] [Information] Sending..... {"messageType":"Ping","sequenceNumber":2,"data":null}
+[15:29:16] [Information] Receiving... {"messageType":"Pong","sequenceNumber":2,"codeReturn":0,"message":"Success","data":null}
+[15:32:58] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:32:58] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:34:15] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:34:15] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:35:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:11] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:11] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:11] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:12] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:12] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:12] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:13] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:13] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:13] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:14] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:14] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:14] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":7,"data":null}
+[15:35:14] [Information] Receiving... {"messageType":"Pong","sequenceNumber":7,"codeReturn":0,"message":"Success","data":null}
+[15:35:51] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:51] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:51] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:52] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:53] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":10,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:53] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:53] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:54] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":11,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:54] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":11,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:54] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:35:55] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":12,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:35:55] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":12,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:35:55] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:36:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":13,"data":null}
+[15:36:14] [Information] Receiving... {"messageType":"Pong","sequenceNumber":13,"codeReturn":0,"message":"Success","data":null}
+[15:38:15] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:38:15] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:38:49] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:38:49] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:38:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:38:50] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:38:50] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:38:50] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:38:51] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:38:51] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:38:51] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:38:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:38:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:38:52] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:39:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[15:39:14] [Information] Receiving... {"messageType":"Pong","sequenceNumber":6,"codeReturn":0,"message":"Success","data":null}
+[15:40:53] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:40:53] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:41:09] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:41:09] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:41:09] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:41:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:41:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:41:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:41:11] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:41:11] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:41:11] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:41:12] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:41:12] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:41:12] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:41:52] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[15:41:53] [Information] Receiving... {"messageType":"Pong","sequenceNumber":6,"codeReturn":0,"message":"Success","data":null}
+[15:42:07] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:42:08] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:42:32] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:42:33] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:42:55] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:42:55] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:42:55] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:43:00] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:43:00] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:43:00] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:43:05] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:43:05] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:43:05] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:43:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:43:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:43:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:43:35] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:43:36] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:43:53] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:43:53] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:43:53] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:45:26] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:45:26] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:45:34] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:45:39] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:45:42] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:45:42] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:45:46] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:45:46] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:45:48] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:45:48] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:45:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:45:49] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:45:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:45:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:46:47] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:46:47] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:46:51] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:46:51] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:46:51] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:46:51] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:46:51] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:02] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:02] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:02] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:02] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:03] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:09] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":10,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":11,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":12,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":13,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":11,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":12,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":13,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:10] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:33] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:47:33] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:47:36] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:36] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:36] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:37] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:37] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:37] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:49] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:49] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:47:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:49] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:47:50] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:15] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:49:15] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:49:18] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:18] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:18] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:18] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:18] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:25] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:25] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:25] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:25] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:49:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:49:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:49:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:50:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":10,"data":null}
+[15:50:14] [Information] Receiving... {"messageType":"Pong","sequenceNumber":10,"codeReturn":0,"message":"Success","data":null}
+[15:51:13] [Information] Sending..... {"messageType":"Ping","sequenceNumber":11,"data":null}
+[15:51:13] [Information] Receiving... {"messageType":"Pong","sequenceNumber":11,"codeReturn":0,"message":"Success","data":null}
+[15:52:12] [Information] Sending..... {"messageType":"Ping","sequenceNumber":12,"data":null}
+[15:52:12] [Information] Receiving... {"messageType":"Pong","sequenceNumber":12,"codeReturn":0,"message":"Success","data":null}
+[15:53:11] [Information] Sending..... {"messageType":"Ping","sequenceNumber":13,"data":null}
+[15:53:11] [Information] Receiving... {"messageType":"Pong","sequenceNumber":13,"codeReturn":0,"message":"Success","data":null}
+[15:53:22] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:53:22] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:53:26] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:52] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:53:53] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:53:53] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:05] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":10,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":10,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":11,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":11,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:05] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":12,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":13,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":12,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:05] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":13,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:05] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:05] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:11] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":14,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:11] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":15,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:11] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":16,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:11] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":17,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:11] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":14,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:11] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:11] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":15,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:11] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":16,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:12] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:12] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":17,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:12] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:12] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:21] [Information] Sending..... {"messageType":"Ping","sequenceNumber":18,"data":null}
+[15:54:21] [Information] Receiving... {"messageType":"Pong","sequenceNumber":18,"codeReturn":0,"message":"Success","data":null}
+[15:54:22] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":19,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":20,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":21,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":19,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":22,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:22] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":20,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":21,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:22] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:54:22] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":22,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:54:22] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:55:19] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:55:19] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:55:32] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:55:32] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:55:32] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:55:47] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:55:48] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:55:48] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:56:10] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:56:15] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:56:18] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[15:56:20] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:56:25] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":8,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:58:01] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[15:58:01] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[15:59:00] [Information] Sending..... {"messageType":"Ping","sequenceNumber":2,"data":null}
+[15:59:00] [Information] Receiving... {"messageType":"Pong","sequenceNumber":2,"codeReturn":0,"message":"Success","data":null}
+[15:59:44] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[15:59:44] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[15:59:44] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[15:59:59] [Information] Sending..... {"messageType":"Ping","sequenceNumber":4,"data":null}
+[15:59:59] [Information] Receiving... {"messageType":"Pong","sequenceNumber":4,"codeReturn":0,"message":"Success","data":null}
+[16:01:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:01:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:02:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":2,"data":null}
+[16:02:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":2,"codeReturn":0,"message":"Success","data":null}
+[16:03:47] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:03:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:03:55] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[16:03:57] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:04:02] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":7,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:04:49] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:04:49] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:04:50] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:04:50] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[16:04:50] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[16:07:53] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:07:53] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:07:56] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:07:56] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[16:07:57] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[16:08:06] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:08:09] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:08:12] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:11:14] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:11:14] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:11:18] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:11:18] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[16:11:18] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[16:12:00] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:12:04] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:12:07] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:12:13] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[16:22:43] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:22:43] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:22:46] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:22:47] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[16:22:47] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[16:44:11] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:44:12] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:44:16] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:44:17] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[16:44:17] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[16:45:11] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[16:45:11] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[16:46:10] [Information] Sending..... {"messageType":"Ping","sequenceNumber":4,"data":null}
+[16:46:10] [Information] Receiving... {"messageType":"Pong","sequenceNumber":4,"codeReturn":0,"message":"Success","data":null}
+[16:46:51] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[16:46:51] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[16:47:09] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[16:47:09] [Information] Receiving... {"messageType":"Pong","sequenceNumber":5,"codeReturn":0,"message":"Success","data":null}
+[16:47:13] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_03A | Content: Success
+[16:48:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[16:48:08] [Information] Receiving... {"messageType":"Pong","sequenceNumber":6,"codeReturn":0,"message":"Success","data":null}
+[16:54:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:54:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[16:55:28] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[16:55:28] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[16:55:28] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[16:55:55] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[16:55:55] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[16:56:54] [Information] Sending..... {"messageType":"Ping","sequenceNumber":4,"data":null}
+[16:56:54] [Information] Receiving... {"messageType":"Pong","sequenceNumber":4,"codeReturn":0,"message":"Success","data":null}
+[16:56:58] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[16:56:58] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[16:57:53] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[16:57:53] [Information] Receiving... {"messageType":"Pong","sequenceNumber":5,"codeReturn":0,"message":"Success","data":null}
+[16:59:35] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[16:59:35] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:00:34] [Information] Sending..... {"messageType":"Ping","sequenceNumber":2,"data":null}
+[17:00:35] [Information] Receiving... {"messageType":"Pong","sequenceNumber":2,"codeReturn":0,"message":"Success","data":null}
+[17:01:04] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[17:01:05] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:01:05] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[17:01:34] [Information] Sending..... {"messageType":"Ping","sequenceNumber":4,"data":null}
+[17:01:34] [Information] Receiving... {"messageType":"Pong","sequenceNumber":4,"codeReturn":0,"message":"Success","data":null}
+[17:02:04] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[17:02:04] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[17:02:33] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[17:02:33] [Information] Receiving... {"messageType":"Pong","sequenceNumber":5,"codeReturn":0,"message":"Success","data":null}
+[17:03:38] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[17:04:03] [Information] Receiving... {"messageType":"Pong","sequenceNumber":6,"codeReturn":0,"message":"Success","data":null}
+[17:06:35] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:06:36] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:06:52] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[17:06:52] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:06:52] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[17:07:35] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[17:07:35] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[17:14:33] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:14:33] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:14:39] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":2,"data":{"scannerName":null,"deviceId":". . .","barcode":"115007000BK"}}
+[17:14:39] [Information] Receiving... {"messageType":"ContainerDivertResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[17:15:26] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[17:15:26] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:15:26] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[17:15:32] [Information] Sending..... {"messageType":"Ping","sequenceNumber":4,"data":null}
+[17:15:32] [Information] Receiving... {"messageType":"Pong","sequenceNumber":4,"codeReturn":0,"message":"Success","data":null}
+[17:16:14] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:16:14] [Information] Receiving... {"messageType":"ContainerDivertResponse","sequenceNumber":5,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[17:16:31] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[17:16:31] [Information] Receiving... {"messageType":"Pong","sequenceNumber":6,"codeReturn":0,"message":"Success","data":null}
+[17:16:49] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[17:16:49] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[17:16:54] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":7,"data":{"deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:16:54] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":7,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[17:17:30] [Information] Sending..... {"messageType":"Ping","sequenceNumber":8,"data":null}
+[17:17:30] [Information] Receiving... {"messageType":"Pong","sequenceNumber":8,"codeReturn":0,"message":"Success","data":null}
+[17:17:37] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":9,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[17:17:37] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":9,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:17:37] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[17:18:14] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":10,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:18:17] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":11,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:18:20] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":12,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:18:29] [Information] Sending..... {"messageType":"Ping","sequenceNumber":13,"data":null}
+[17:19:26] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:19:27] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:20:02] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":2,"data":{"deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:20:02] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[17:20:26] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[17:20:26] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[17:33:07] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:33:07] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:33:16] [Information] Beginning... 
+[17:33:16] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[17:33:16] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:33:16] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[17:33:19] [Information] END......... 
+[17:34:04] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:34:05] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:34:14] [Information] Beginning... 
+[17:34:14] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[17:34:15] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:34:15] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[17:34:17] [Information] END......... 
+[17:35:04] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[17:35:04] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[17:35:20] [Information] Beginning... 
+[17:35:20] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:35:23] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:35:26] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[17:35:29] [Warning] Sending..... Not found sequenceNumber: 6
+[17:35:29] [Information] END......... 
+[17:36:03] [Information] Sending..... {"messageType":"Ping","sequenceNumber":7,"data":null}
+[17:38:46] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:38:46] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:39:26] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:39:26] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:58:00] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[17:58:00] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[17:58:59] [Information] Sending..... {"messageType":"Ping","sequenceNumber":2,"data":null}
+[17:59:00] [Information] Receiving... {"messageType":"Pong","sequenceNumber":2,"codeReturn":0,"message":"Success","data":null}
+[17:59:59] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[17:59:59] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[18:00:58] [Information] Sending..... {"messageType":"Ping","sequenceNumber":4,"data":null}
+[18:00:58] [Information] Receiving... {"messageType":"Pong","sequenceNumber":4,"codeReturn":0,"message":"Success","data":null}
+[18:01:57] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[18:01:57] [Information] Receiving... {"messageType":"Pong","sequenceNumber":5,"codeReturn":0,"message":"Success","data":null}
+[18:02:14] [Information] Beginning... 
+[18:02:14] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:02:14] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:02:14] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[18:02:17] [Information] END......... 
+[18:02:56] [Information] Sending..... {"messageType":"Ping","sequenceNumber":7,"data":null}
+[18:02:56] [Information] Receiving... {"messageType":"Pong","sequenceNumber":7,"codeReturn":0,"message":"Success","data":null}
+[18:03:55] [Information] Sending..... {"messageType":"Ping","sequenceNumber":8,"data":null}
+[18:03:55] [Information] Receiving... {"messageType":"Pong","sequenceNumber":8,"codeReturn":0,"message":"Success","data":null}
+[18:04:54] [Information] Sending..... {"messageType":"Ping","sequenceNumber":9,"data":null}
+[18:04:54] [Information] Receiving... {"messageType":"Pong","sequenceNumber":9,"codeReturn":0,"message":"Success","data":null}
+[18:05:53] [Information] Sending..... {"messageType":"Ping","sequenceNumber":10,"data":null}
+[18:05:53] [Information] Receiving... {"messageType":"Pong","sequenceNumber":10,"codeReturn":0,"message":"Success","data":null}
+[18:06:52] [Information] Sending..... {"messageType":"Ping","sequenceNumber":11,"data":null}
+[18:06:52] [Information] Receiving... {"messageType":"Pong","sequenceNumber":11,"codeReturn":0,"message":"Success","data":null}
+[18:07:28] [Information] Beginning... 
+[18:07:28] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":12,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:07:31] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":13,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:07:34] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":14,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:07:37] [Warning____] Sending..... Not found sequenceNumber: 14
+[18:07:37] [Information] END......... 
+[18:07:51] [Information] Sending..... {"messageType":"Ping","sequenceNumber":15,"data":null}
+[18:17:02] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[18:17:02] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[18:17:41] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[18:17:41] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[18:18:01] [Information] Sending..... {"messageType":"Ping","sequenceNumber":2,"data":null}
+[18:18:01] [Information] Receiving... {"messageType":"Pong","sequenceNumber":2,"codeReturn":0,"message":"Success","data":null}
+[18:18:14] [Information] Beginning... 
+[18:18:14] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":3,"data":{"deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:18:14] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":3,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[18:18:17] [Information] END......... 
+[18:18:54] [Information] Beginning... 
+[18:18:54] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:18:57] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:19:00] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:19:00] [Information] Sending..... {"messageType":"Ping","sequenceNumber":7,"data":null}
+[18:19:03] [Warning____] Sending..... Not found sequenceNumber: 6
+[18:19:03] [Information] END......... 
+[18:25:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[18:25:08] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[18:25:12] [Information] Beginning... 
+[18:25:12] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:25:12] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:25:12] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[18:25:15] [Information] END......... 
+[18:25:27] [Information] Beginning... 
+[18:25:27] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:25:30] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:25:33] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:25:36] [Warning____] Sending..... Not found sequenceNumber: 5
+[18:25:36] [Information] END......... 
+[18:26:07] [Information] Sending..... {"messageType":"Ping","sequenceNumber":6,"data":null}
+[18:34:04] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[18:34:05] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[18:34:08] [Information] Beginning... 
+[18:34:08] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:34:08] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:34:08] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[18:34:11] [Information] END......... 
+[18:34:27] [Information] Beginning... 
+[18:34:27] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":3,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:34:30] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:34:33] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":5,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:34:36] [Warning____] Sending..... Did not found the response message from WES
+[18:34:51] [Information] END......... 
+[18:37:49] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[18:37:50] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[18:37:54] [Information] Beginning... 
+[18:37:54] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":2,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:37:54] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":2,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:37:54] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[18:37:57] [Information] END......... 
+[18:38:31] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":1,"data":{"deviceId":"GTP-01","command":"ADVANCE"}}
+[18:38:32] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":1,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"ADVANCE"}}
+[18:38:49] [Information] Sending..... {"messageType":"Ping","sequenceNumber":3,"data":null}
+[18:38:49] [Information] Receiving... {"messageType":"Pong","sequenceNumber":3,"codeReturn":0,"message":"Success","data":null}
+[18:39:18] [Information] Beginning... 
+[18:39:18] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":4,"data":{"scannerName":"SCANNER-01","barcode":"115007000BK"}}
+[18:39:18] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":4,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:39:18] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber ROUTING_MODE | Content: Success
+[18:39:21] [Information] END......... 
+[18:39:48] [Information] Sending..... {"messageType":"Ping","sequenceNumber":5,"data":null}
+[18:39:48] [Information] Receiving... {"messageType":"Pong","sequenceNumber":5,"codeReturn":0,"message":"Success","data":null}
+[18:39:51] [Information] Beginning... 
+[18:39:51] [Information] Sending..... {"messageType":"ContainerDivertRequest","sequenceNumber":6,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:39:51] [Information] Receiving... {"messageType":"ContainerDivertResponse","sequenceNumber":6,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[18:39:54] [Information] END......... 
+[18:40:47] [Information] Sending..... {"messageType":"Ping","sequenceNumber":7,"data":null}
+[18:40:47] [Information] Receiving... {"messageType":"Pong","sequenceNumber":7,"codeReturn":0,"message":"Success","data":null}
+[18:40:50] [Information] Writing..... PC -> PLC | Arguments: value ADVANCE, clusterNumber CLUSTER_03A | Content: Success
+[18:41:17] [Information] Beginning... 
+[18:41:17] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":8,"data":{"deviceId":"GTP-01","barcode":"115007000BK"}}
+[18:41:18] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":8,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[18:41:20] [Information] END......... 
+[18:41:46] [Information] Sending..... {"messageType":"Ping","sequenceNumber":9,"data":null}
+[18:41:46] [Information] Receiving... {"messageType":"Pong","sequenceNumber":9,"codeReturn":0,"message":"Success","data":null}
+[18:42:45] [Information] Sending..... {"messageType":"Ping","sequenceNumber":10,"data":null}
+[18:42:45] [Information] Receiving... {"messageType":"Pong","sequenceNumber":10,"codeReturn":0,"message":"Success","data":null}
+[18:43:12] [Information] Receiving... {"messageType":"DeviceCommand","sequenceNumber":2,"data":{"deviceId":"GTP-01","command":"COMPLETE"}}
+[18:43:12] [Information] Sending..... {"messageType":"DeviceStatus","sequenceNumber":2,"codeReturn":0,"message":"Succes","data":{"deviceId":"GTP-01","status":"COMPLETE"}}
+[18:43:44] [Information] Sending..... {"messageType":"Ping","sequenceNumber":11,"data":null}
+[18:43:44] [Information] Receiving... {"messageType":"Pong","sequenceNumber":11,"codeReturn":0,"message":"Success","data":null}

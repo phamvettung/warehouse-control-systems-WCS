@@ -1,0 +1,4 @@
+[09:16:39] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[09:16:40] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}
+[09:20:30] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1,"data":null}
+[09:20:30] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1,"codeReturn":0,"message":"Success","data":null}

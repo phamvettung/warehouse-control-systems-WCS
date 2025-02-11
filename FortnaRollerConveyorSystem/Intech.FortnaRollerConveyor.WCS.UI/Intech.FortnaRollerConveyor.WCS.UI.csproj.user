@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ContainerDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LayoutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\ArtanPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\CircularPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\ContainerPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\HorizoltalConveyor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\MainConveyor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\VerticalConveyor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WcsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

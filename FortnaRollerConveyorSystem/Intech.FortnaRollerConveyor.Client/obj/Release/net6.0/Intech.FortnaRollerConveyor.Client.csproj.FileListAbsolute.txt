@@ -1,0 +1,16 @@
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\bin\Release\net6.0\Intech.FortnaRollerConveyor.Client.deps.json
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\bin\Release\net6.0\Intech.FortnaRollerConveyor.Client.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\bin\Release\net6.0\Intech.FortnaRollerConveyor.Client.pdb
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\bin\Release\net6.0\Intech.FortnaRollerConveyor.Shared.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\bin\Release\net6.0\Intech.FortnaRollerConveyor.Shared.pdb
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.csproj.AssemblyReference.cache
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.AssemblyInfoInputs.cache
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.AssemblyInfo.cs
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.csproj.CoreCompileInputs.cache
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.sourcelink.json
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.F.B8F7F5BC.Up2Date
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\refint\Intech.FortnaRollerConveyor.Client.dll
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\Intech.FortnaRollerConveyor.Client.pdb
+D:\IT\Fortna\FortnaRepo\FortnaRollerConveyorSystem\Intech.FortnaRollerConveyor.Client\obj\Release\net6.0\ref\Intech.FortnaRollerConveyor.Client.dll

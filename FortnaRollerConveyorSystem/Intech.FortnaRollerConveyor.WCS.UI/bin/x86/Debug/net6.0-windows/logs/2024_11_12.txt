@@ -1,0 +1,29 @@
+[10:12:51] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[10:12:53] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[10:12:53] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[10:12:54] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[10:16:08] [Information] Sending..... {"messageType":"CurrentSequenceRequest","sequenceNumber":0,"data":null}
+[10:16:09] [Information] Receiving... {"messageType":"CurrentSequenceResponse","sequenceNumber":0,"codeReturn":0,"message":"Success","data":{"currentSequenceNumber":1000}}
+[10:16:09] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1001,"data":null}
+[10:16:10] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1001,"codeReturn":0,"message":"Success","data":null}
+[10:16:39] [Information] Beginning... 
+[10:16:39] [Information] Sending..... {"messageType":"ContainerRouteRequest","sequenceNumber":1002,"data":{"scannerName":"SCANNER-01","barcode":"115007004BK"}}
+[10:16:40] [Information] Receiving... {"messageType":"ContainerRouteResponse","sequenceNumber":1002,"codeReturn":0,"message":"Success","data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007004BK"}}
+[10:16:40] [Information] Writing..... PC -> PLC | Arguments: value GTP-01, clusterNumber CLUSTER_01 | Content: Success
+[10:16:42] [Information] End......... 
+[10:16:45] [Information] Beginning... 
+[10:16:45] [Information] Sending..... {"messageType":"DivertConfirm","sequenceNumber":1003,"data":{"scannerName":"SCANNER-01","deviceId":"GTP-01","barcode":"115007004BK"}}
+[10:16:45] [Information] Receiving... {"messageType":"DivertConfirmResponse","sequenceNumber":1003,"codeReturn":0,"message":"Success","data":{"scannerName":"","deviceId":"","barcode":""}}
+[10:16:48] [Information] End......... 
+[10:17:09] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1004,"data":null}
+[10:17:09] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1004,"codeReturn":0,"message":"Success","data":null}
+[10:17:24] [Error______] Reading..... Loss connection to PLC. 0X01808008
+[10:17:41] [Error______] Reading..... Loss connection to PLC. 0X01808008
+[10:17:41] [Information] Beginning... 
+[10:17:41] [Information] Beginning... 
+[10:17:41] [Information] End......... 
+[10:17:42] [Information] Sending..... {"messageType":"ContainerScan","sequenceNumber":1005,"data":{"deviceId":"GTP-01","barcode":"115007004BK"}}
+[10:17:42] [Information] Receiving... {"messageType":"ContainerScanResponse","sequenceNumber":1005,"codeReturn":0,"message":"Success","data":{"deviceId":"GTP-01"}}
+[10:17:45] [Information] End......... 
+[10:18:08] [Information] Sending..... {"messageType":"Ping","sequenceNumber":1006,"data":null}
+[10:18:08] [Information] Receiving... {"messageType":"Pong","sequenceNumber":1006,"codeReturn":0,"message":"Success","data":null}

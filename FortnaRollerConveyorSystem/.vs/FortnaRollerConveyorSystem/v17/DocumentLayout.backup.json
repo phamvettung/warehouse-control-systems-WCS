@@ -1,0 +1,738 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\grapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\grapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D227777-E3D4-456D-8B61-EF181F2B62DA}|Intech.FortnaRollerConveyor.Client\\Intech.FortnaRollerConveyor.Client.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D227777-E3D4-456D-8B61-EF181F2B62DA}|Intech.FortnaRollerConveyor.Client\\Intech.FortnaRollerConveyor.Client.csproj|solutionrelative:intech.fortnarollerconveyor.client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wcs.ui\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\wcsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\wcsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\configurations\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\configurations\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\models\\datacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\models\\datacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wcs.ui\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E248D2F7-9F4C-4E3C-AA6C-67B0F2A8BC36}|Intech.FortnaRollerConveyor.Server\\Intech.FortnaRollerConveyor.Server.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.server\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E248D2F7-9F4C-4E3C-AA6C-67B0F2A8BC36}|Intech.FortnaRollerConveyor.Server\\Intech.FortnaRollerConveyor.Server.csproj|solutionrelative:intech.fortnarollerconveyor.server\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\enums\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\enums\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\enums\\logaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\enums\\logaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\layoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\layoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wcs.ui\\layoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\layoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wcs.ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wcs.ui\\wcsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\wcsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\intech.fortnarollerconveyor.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\intech.fortnarollerconveyor.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\intech.fortnarollerconveyor.wcs.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\intech.fortnarollerconveyor.wcs.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\usercontrols\\mainconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\usercontrols\\mainconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99984A4C-F5BB-42B1-A8F7-B9F313AE8966}|Intech.FortnaRollerConveyor.WES.UI\\Intech.FortnaRollerConveyor.WES.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wes.ui\\wesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99984A4C-F5BB-42B1-A8F7-B9F313AE8966}|Intech.FortnaRollerConveyor.WES.UI\\Intech.FortnaRollerConveyor.WES.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wes.ui\\wesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\usercontrols\\circularpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\usercontrols\\circularpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\devicecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\devicecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\containerscanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\containerscanresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\containerscanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\containerscanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\containerrouteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\containerrouteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\containerrouterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\containerrouterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\containerdivert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\containerdivert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\pingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\pingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\usercontrols\\containerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\usercontrols\\containerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\intech.fortnarollerconveyor.wcs.ui\\containerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\containerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\usercontrols\\verticalconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\usercontrols\\verticalconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\usercontrols\\horizoltalconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\usercontrols\\horizoltalconveyor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.wcs.ui\\containerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA06A01-895A-4080-80D0-A0C79261023A}|Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj|solutionrelative:intech.fortnarollerconveyor.wcs.ui\\containerdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\currentsequencerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\currentsequencerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|d:\\it\\fortna\\fortnarepo\\fortnarollerconveyorsystem\\intech.fortnarollerconveyor.shared\\messages\\currentsequenceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3228C9C9-BBA8-44EE-BE9A-BD9EE3E77B38}|Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj|solutionrelative:intech.fortnarollerconveyor.shared\\messages\\currentsequenceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs",
+              "ViewState": "AgIAAFYGAAAAAAAAAAAUwGQGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:57:36.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grapher.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Grapher.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Grapher.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Grapher.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Grapher.cs",
+              "ViewState": "AgIAABIDAAAAAAAAAAAEwBsDAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:17:10.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\appsettings.json",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\appsettings.json",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T02:58:58.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Receiver.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Server\\Receiver.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Server\\Receiver.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Server\\Receiver.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Server\\Receiver.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAAUBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:18:21.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataControl.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Models\\DataControl.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Models\\DataControl.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Models\\DataControl.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Models\\DataControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:55:12.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:52:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Client\\Client.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Client\\Client.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Client\\Client.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Client\\Client.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAvwOkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:58:09.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Logging\\Logger.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Logging\\Logger.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:38:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WcsForm.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:16:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PLC.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\PLC.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\PLC.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\PLC.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\PLC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:55:26.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoadingForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T07:00:15.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fader.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Fader.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Fader.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Fader.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Fader.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:32:27.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Enums\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Enums\\StatusEnum.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Enums\\StatusEnum.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Enums\\StatusEnum.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:33:17.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Configurations\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Configurations\\AppConfig.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Configurations\\AppConfig.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Configurations\\AppConfig.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T05:59:07.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogLevel.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Enums\\LogLevel.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Enums\\LogLevel.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Enums\\LogLevel.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Enums\\LogLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:39:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogAction.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Enums\\LogAction.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Enums\\LogAction.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Enums\\LogAction.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Enums\\LogAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:20:26.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoadingForm.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\LoadingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:31:29.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LayoutForm.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:12:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LayoutForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\LayoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:12:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WcsForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\WcsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:31:56.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:26:07.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\WelcomeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:14:35.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Intech.FortnaRollerConveyor.WCS.UI.csproj",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Intech.FortnaRollerConveyor.WCS.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T00:53:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Intech.FortnaRollerConveyor.Shared.csproj",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Intech.FortnaRollerConveyor.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T00:53:36.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainConveyor.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\MainConveyor.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\MainConveyor.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\MainConveyor.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\MainConveyor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:45:12.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CurrentSequenceRequest.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceRequest.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceRequest.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceRequest.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:04:36.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WesForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WES.UI\\WesForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WES.UI\\WesForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WES.UI\\WesForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WES.UI\\WesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:46:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PingRequest.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\PingRequest.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\PingRequest.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\PingRequest.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\PingRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:42:54.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CurrentSequenceResponse.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceResponse.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceResponse.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceResponse.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\CurrentSequenceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:44:52.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContainerRouteResponse.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteResponse.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteResponse.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteResponse.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:45:04.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ContainerScanRequest.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanRequest.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanRequest.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanRequest.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:16:27.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeviceCommandRequest.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\DeviceCommandRequest.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\DeviceCommandRequest.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\DeviceCommandRequest.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\DeviceCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:16:31.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\ResponseMessage.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ResponseMessage.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\ResponseMessage.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:17:32.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ContainerPanel.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\ContainerPanel.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\ContainerPanel.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\ContainerPanel.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\ContainerPanel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwIwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:45:23.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.Designer.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.Designer.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\HomeForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:44:05.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Program.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Program.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:02:30.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Container.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Models\\Container.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\Models\\Container.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\Models\\Container.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\Models\\Container.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:28:45.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HorizoltalConveyor.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\HorizoltalConveyor.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\HorizoltalConveyor.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\HorizoltalConveyor.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\HorizoltalConveyor.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:44:06.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VerticalConveyor.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\VerticalConveyor.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\VerticalConveyor.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\VerticalConveyor.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\VerticalConveyor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T02:44:23.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CircularPanel.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\CircularPanel.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\CircularPanel.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\CircularPanel.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\UserControls\\CircularPanel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:53:54.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ContainerDivert.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerDivert.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerDivert.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerDivert.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerDivert.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:53:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ContainerRouteRequest.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteRequest.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteRequest.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteRequest.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerRouteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:54:06.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ContainerDetailForm.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:34:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ContainerScanResponse.cs",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanResponse.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanResponse.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanResponse.cs",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.Shared\\Messages\\ContainerScanResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:27:58.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContainerDetailForm.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs",
+              "RelativeDocumentMoniker": "Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs",
+              "ToolTip": "D:\\IT\\Fortna\\FortnaRepo\\FortnaRollerConveyorSystem\\Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs [Design]",
+              "RelativeToolTip": "Intech.FortnaRollerConveyor.WCS.UI\\ContainerDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:33:16.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
