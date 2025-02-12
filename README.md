@@ -2,7 +2,7 @@
 
 ![Warehouse Control Systems](/assets/Fortna.2K.png)
 
-## NGUYÊN LÝ HOẠT ĐỘNG
+### NGUYÊN LÝ HOẠT ĐỘNG
 
 
 
