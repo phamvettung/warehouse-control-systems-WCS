@@ -15,7 +15,7 @@
 - Hiển thị trạng thái ON/OFF của Stopper, Cụm chuyển làn, cảm biến,...
 - Điều khiển chạy/dừng hệ thống: Start, Stop, Reset.
 - Mô phỏng chính xác vị trí của khay ở trên băng tải.
-## CÁC CÔNG NGHỆ SỬ DỤNG
+### CÁC CÔNG NGHỆ SỬ DỤNG
 - Windows Forms
 - Ngôn ngữ: C#
 
