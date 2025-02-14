@@ -16,8 +16,8 @@
 - Điều khiển chạy/dừng hệ thống: Start, Stop, Reset.
 - Mô phỏng chính xác vị trí của khay ở trên băng tải.
 ## CÁC CÔNG NGHỆ SỬ DỤNG
-Windows Forms
-Ngôn ngữ: C#
+- Windows Forms
+- Ngôn ngữ: C#
 
 ### HOẠT ĐỘNG HỆ THỐNG
 https://github.com/user-attachments/assets/a9e44f49-fa06-497b-852d-9417154e1ecb
