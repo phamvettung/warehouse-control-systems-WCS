@@ -10,7 +10,7 @@
 ### CÁC TÍNH NĂNG
 - Phần mềm WCS tích hợp với Phần mềm WES qua kết nối TCP/IP được mô tả trong API SPEC 20241101.docx
 - Xỷ lý các message gửi và nhận từ WES và lưu lịch sử.
-- Kết nối với Bộ điều khiển PLC Mitsubishi sử dụng thư viện MX Component, đọc trạng thái và ghi lệnh điều khiển xuống băng chuyền.
+- Kết nối với Bộ điều khiển PLC Mitsubishi sử dụng thư viện MX Component, đọc/ghi lệnh điều khiển xuống băng chuyền.
 - Đọc mã barcode dán trên khay sử dụng Đầu đọc Datalogic qua kết nối TCP/IP.
 - Hiển thị trạng thái ON/OFF của Stopper, Cụm chuyển làn, cảm biến,...
 - Điều khiển chạy/dừng hệ thống: Start, Stop, Reset.
